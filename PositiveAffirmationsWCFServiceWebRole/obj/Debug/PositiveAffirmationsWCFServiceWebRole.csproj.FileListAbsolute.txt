@@ -10,7 +10,6 @@ C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFSer
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Newtonsoft.Json.dll
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\System.Spatial.dll
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\MonAgentListener.dll
-C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Data.Edm.xml
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Data.OData.xml
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Data.Services.Client.xml
@@ -59,3 +58,7 @@ C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFSer
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\obj\Debug\PositiveAffirmationsWCFServiceWebRole.csproj.CopyComplete
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\obj\Debug\PositiveAffirmationsWCFServiceWebRole.dll
 C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\obj\Debug\PositiveAffirmationsWCFServiceWebRole.pdb
+C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\kathl\Dropbox\Projects\MyAzureWCFServiceDemo\PositiveAffirmationsWCFServiceWebRole\bin\Microsoft.Rest.ClientRuntime.Azure.xml

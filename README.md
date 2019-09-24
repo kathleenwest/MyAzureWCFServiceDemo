@@ -18,24 +18,18 @@ The demo project consists of these component topics:
 
 
 •	PositiveAffirmationsWCFServiceWebRole Class Library for Cloud Service
-
-o	IPositiveAffirmationService (Interface for Service)
-
-o	PositiveAffirmationService (Code that Implements the Service Interface)
+	o	IPositiveAffirmationService (Interface for Service)
+	o	PositiveAffirmationService (Code that Implements the Service Interface)
 
 
 •	MyAzureWCFServiceDemo “Service Host” Azure Cloud Service 
-
-o	Configuration Settings for Hosting the Service
-
-o	Cloud Publishing Settings
+	o	Configuration Settings for Hosting the Service
+	o	Cloud Publishing Settings
 
 
 •	TestClientGUI “Tester to Service” Windows Form Application
-
-o	Connected Service “Proxy Reference” 
-
-o	Simple Program to test the service @ http endpoint
+	o	Connected Service “Proxy Reference” 
+	o	Simple Program to test the service @ http endpoint
 
 
 
